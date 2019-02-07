@@ -1,0 +1,24 @@
+Average income for inner city region: 27752.87
+Average income for rural region: 30027.61
+Average income for suburban region: 28656.36
+Average income for town region: 26802.19
+
+Maximum income for inner city region: 266222.8
+Maximum income for rural region: 57398.1
+Maximum income for suburban region: 63130.1
+Maximum income for town region: 59803.9
+
+Minimum income for inner city region: 6294.21
+Minimum income for rural region: 8639.24
+Minimum income for suburban region: 8143.75
+Minimum income for town region: 5014.21
+
+Inner city region females with mortgage and savings account: 31
+Rural region females with mortgage and savings account: 9
+Suburban region females with mortgage and savings account: 4
+Town region females with mortgage and savings account: 27
+
+Inner city region males with car and 1 child per location: 15
+Rural region males with car and 1 child per location: 9
+Suburban region males with car and 1 child per location: 3
+Town region males with car and 1 child per location: 7
